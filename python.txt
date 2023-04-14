@@ -1,0 +1,11 @@
+print random numbers 
+take string length
+print with if else condition in the sentence ir in paragraph
+print those characters index which u want mean string slicing
+Upper Case Lower Case Split Case Remove Extra WhiteSpaces Replace WOrds with Each Other
+How to Concatenate The Strings 
+How to Formate The Strings 
+How to Escape Charcters
+if else & break difference 
+Break , Continue & Pass Used in Loops & if else statements
+Loops Contructing
